@@ -5,14 +5,14 @@ import SectionHeading from './ui/SectionHeading';
 const categories = ['all', 'bridal', 'engagement', 'party'];
 
 const galleryImages = [
-  { id: 1,  category: 'bridal',     src: '/images/look3.jpg', height: 'h-96',  alt: 'Luxury bridal look — White lehenga' },
-  { id: 2,  category: 'engagement', src: '/images/look2.jpg', height: 'h-80',  alt: 'Elegant engagement makeup — Blue outfit' },
+  { id: 1,  category: 'engagement', src: '/images/look2.jpg', height: 'h-80',  alt: 'Elegant engagement makeup — Blue outfit' },
+  { id: 2,  category: 'engagement', src: '/images/look1.jpg', height: 'h-80',  alt: 'Chic engagement style' },
   { id: 3,  category: 'party',      src: '/images/look1.jpg', height: 'h-72',  alt: 'Party glam look — Blue lehenga with mehndi' },
-  { id: 4,  category: 'bridal',     src: '/images/look2.jpg', height: 'h-80',  alt: 'Bridal closeup — Stunning eye makeup' },
-  { id: 5,  category: 'engagement', src: '/images/look3.jpg', height: 'h-72',  alt: 'Romantic engagement look — Soft glam' },
-  { id: 6,  category: 'party',      src: '/images/look2.jpg', height: 'h-96',  alt: 'Evening party look — HD makeup' },
-  { id: 7,  category: 'bridal',     src: '/images/look1.jpg', height: 'h-72',  alt: 'Traditional bridal beauty' },
-  { id: 8,  category: 'engagement', src: '/images/look1.jpg', height: 'h-80',  alt: 'Chic engagement style' },
+  { id: 4,  category: 'bridal',     src: '/images/shreya2.png', height: 'h-80',  alt: 'Luxury bridal look — Red lehenga ' },
+  { id: 5,  category: 'party',      src: '/images/look2.jpg', height: 'h-96',  alt: 'Evening party look — HD makeup' },
+  { id: 6,  category: 'bridal',     src: '/images/shreya4.jpeg', height: 'h-96',  alt: 'Traditional bridal beauty' },
+  { id: 7,  category: 'engagement', src: '/images/look3.jpg', height: 'h-72',  alt: 'Romantic engagement look — Soft glam' },
+  { id: 8,  category: 'bridal',     src: '/images/shreya3.png', height: 'h-72',  alt: 'Bridal closeup — Stunning eye makeup' },
   { id: 9,  category: 'party',      src: '/images/look3.jpg', height: 'h-80',  alt: 'Bold party look — Camera ready' },
 ];
 
